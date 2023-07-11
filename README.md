@@ -5,6 +5,7 @@ Desarrollar un api rest, donde pueda hacer todos los metodos de un CRUD.
 
 #### Tecnologias utilizados
 
+- JavaScrip
 - Nodejs
 - Express
 - Mysql
